@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mt10dp">10dp</dimen>
+    <dimen name="ml80dp">80dp</dimen>
+    <dimen name="mr10dp">10dp</dimen>
+    <dimen name="m10dp">10dp</dimen>
+    <dimen name="p8dp">8dp</dimen>
+    <dimen name="m8dp">8dp</dimen>
+    <dimen name="p10dp">10dp</dimen>
+    <dimen name="ml20dp">20dp</dimen>
+    <dimen name="height_logo">200dp</dimen>
+</resources>
